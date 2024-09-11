@@ -1,6 +1,6 @@
 # Sentiment-Analysis-for-Employee-Satisfaction-during-COVID-19-Pandemic
 
-This project performs sentiment analysis on employee reviews from Glassdoor during the COVID-19 pandemic, focusing on major Silicon Valley companies such as Apple, Facebook, and Google. The aim is to assess employee satisfaction during this period by analyzing review sentiments, with potential insights for investors and business analysts **because** during the COVID-19 pandemic, companies adopted various strategies to manage operations and employee well-being. This project seeks to analyze employee reviews, focusing on their pros and cons, to gauge overall satisfaction across different companies. By applying sentiment analysis to these reviews, we can derive valuable insights about how employees perceived their employers' responses during the pandemic.
+During the COVID-19 pandemic, companies adopted various strategies to manage operations and employee well-being focusing on major Silicon Valley companies such as Apple, Facebook, and Google.. This project seeks to analyze employee reviews, focusing on their pros and cons, to gauge overall satisfaction across different companies. By applying sentiment analysis to these reviews, we can derive valuable insights about how employees perceived their employers' responses during the pandemic.
 
 ## Datasets Used
 1. **data_glassdoor_hw1.csv**: Contains employee reviews for major tech companies.
